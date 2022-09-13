@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DataSerializer-jar-with-dependencies1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DataSerializer-jar-with-dependencies.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/DataSerializer-jar-with-dependencies.jar!/" />
+    </SOURCES>
+  </library>
+</component>

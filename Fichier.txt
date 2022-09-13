@@ -1,0 +1,15 @@
+NomTest
+PrenomTest
+HOMME
+0610203040
+PATISIER
+-1
+
+
+
+// 1er Ligne le nom du Chef
+// 2eme Ligne le prénom du Chef
+// 3eme Ligne le genre du Chef
+// 4eme Ligne le numéro du Chef
+// 5eme Ligne la spécialité du Chef
+// 6eme Ligne les étoiles du Chef
